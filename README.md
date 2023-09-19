@@ -18,16 +18,16 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] User can toggle betweeen different word lists
-- [x] User can see the 'correctness' of their guess through colors on the word 
-- [x] User sees a visual change after guessing the correct word
-- [x] User can tap a 'Reset' button to get a new word and clear previous guesses
-- [x] User will get an error message if they input an invalid guess
-- [x] User can see a 'streak' record of how many words they've guessed correctly.
+- [] User can toggle betweeen different word lists
+- [] User can see the 'correctness' of their guess through colors on the word 
+- [] User sees a visual change after guessing the correct word
+- [] User can tap a 'Reset' button to get a new word and clear previous guesses
+- [] User will get an error message if they input an invalid guess
+- [] User can see a 'streak' record of how many words they've guessed correctly.
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
